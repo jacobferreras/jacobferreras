@@ -58,4 +58,4 @@ Git/GitHub · Agile Development · Project Management · Problem Solving
 - 📱 Mobile: +63 953-378-5109  
 
 ---
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+✨ “First, solve the problem. Then, write the code.”
